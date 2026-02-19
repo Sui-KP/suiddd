@@ -1,13 +1,7 @@
 *.class
-*.ico
 *.iml
-*.jpeg
-*.jpg
 *.lock
 *.log
-*.png
-*.svg
-*.webp
 .DS_Store
 .flutter-plugins-dependencies
 .metadata
