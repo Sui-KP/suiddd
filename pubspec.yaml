@@ -1,0 +1,29 @@
+name: ddd
+publish_to: 'none'
+version: 3.0.2
+environment:
+  sdk: ">=3.10.0"
+dependencies:
+  collection: any
+  cross_file: any
+  desktop_drop: any
+  dtd: any
+  file_picker: any
+  flutter:
+    sdk: flutter
+  flutter_lints: any
+  flutter_localizations:
+    sdk: flutter
+  google_fonts: any
+  http: ^1.6.0
+  intl: any
+  json_rpc_2: any
+  material_symbols_icons: any
+  path: any
+  shared_preferences: any
+  stack_trace: any
+  url_launcher: any
+  web: any
+flutter:
+  uses-material-design: true
+  generate: true

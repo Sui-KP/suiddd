@@ -1,0 +1,4 @@
+arb-dir: lib/lang
+template-arb-file: zh.arb
+output-localization-file: l.dart
+output-class: L
